@@ -1,6 +1,8 @@
 # AttributeToUVMap
 
-Geometory Nodeを適用したモデルはUVMap情報が`属性（Attribute）`に格納されているので、FBXエクスポート時などで反映されない。`属性`を`UVMap`に移動させ、Geometory Node製のモデルのUVを吐き出せるようにするアドオン。
+Geometory Nodeを適用したモデルはUVMap情報が`属性（Attribute）`に格納されているので、FBXエクスポート時などで反映されない。`属性`を`UVMap`に移動させ、Geometory Node製のモデルのUVを吐き出せるようにするBlenderアドオンです。
+
+Blender 3.0.0以降対応
 
 ## 機能
 
